@@ -1,0 +1,12 @@
+C:\Repositorios\SocialMedia\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netstandard2.0\SocialMedia.Infrastructure.deps.json
+C:\Repositorios\SocialMedia\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netstandard2.0\SocialMedia.Infrastructure.dll
+C:\Repositorios\SocialMedia\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netstandard2.0\SocialMedia.Infrastructure.pdb
+C:\Repositorios\SocialMedia\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netstandard2.0\SocialMedia.Core.dll
+C:\Repositorios\SocialMedia\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netstandard2.0\SocialMedia.Core.pdb
+C:\Repositorios\SocialMedia\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.csprojAssemblyReference.cache
+C:\Repositorios\SocialMedia\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.AssemblyInfoInputs.cache
+C:\Repositorios\SocialMedia\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.AssemblyInfo.cs
+C:\Repositorios\SocialMedia\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.csproj.CopyComplete
+C:\Repositorios\SocialMedia\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.dll
+C:\Repositorios\SocialMedia\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.pdb
+C:\Repositorios\SocialMedia\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.csproj.CoreCompileInputs.cache
